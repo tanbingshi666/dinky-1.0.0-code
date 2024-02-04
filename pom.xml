@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dinky-jar-code</module>
+        <module>dinky-udf-code</module>
     </modules>
 
     <properties>
